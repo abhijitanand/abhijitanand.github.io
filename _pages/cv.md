@@ -37,7 +37,19 @@ Work experience
     - Research problem: To find out why and how do event pages in Wikipedia lag or lead the news and emergence of entity pages in Wikipedia.
     - Ranking news events according to Structural and Source based feature.
     - Contributed in Publication of 3 full papers in top conferences(WSDM,Web-Sci)
-  
+
+* 2010 - 2013: Module Lead, Persistent Systems
+  * Duties included:
+    - Gathered requirements and defined new features for an online test platform.
+    - Designed a framework for automation testing.
+    - Assisted in automating the build, release, deployment, and testing processes.
+    - Took responsibility for bi-weekly testing and test release of the product.
+
+* 2007 - 2010: Software Engineer, Electronics for Imaging, Infosys Systems
+  * Duties included:
+    - Contributed to the development of features for the Fiery JDF product suite, adhering to stringent quality control standards for defect management using C++.
+    - Served as the primary contact for Phase 2 Fiery JDF engine support.
+
 Skills
 ======
 * Python
