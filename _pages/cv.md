@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ranking using Language Models, Leibniz University Hannover, 2024 (expected)
+* M.S. in Computer Science, Leibniz University Hannover, 2016
+* B.S. in Information Technology, Vellore University, Vellore, India, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - 2020: Data Scientist, FlixBus
+  * Duties includes:
+    - Improved price prediction models to maximise revenue across FlixBus network.
+    - Demand forecasting using time-series based models.
+    - Working with revenue management and pricing teams to optimise pricing strategies.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -34,12 +35,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* Pytorch Lightning
+* Transformers
+* Weights and Biases
+* Java
 
 Publications
 ======
@@ -47,18 +48,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
