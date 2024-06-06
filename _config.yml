@@ -27,7 +27,8 @@ author:
   bio              : "PhD Student at L3S Research Center, working on docuemnt ranking using laguage models."
   location         : "Hannover, Germany"
   employer         : ""
-  uri              : # URL
+  #uri              : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8cm7Oe0AAAAJ"
   email            : "aanand@l3s.de" 
 
   # Academic websites
