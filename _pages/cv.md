@@ -19,6 +19,7 @@ Work experience
 ======
 * 2019 - 2020: Data Scientist, FlixBus
   * Duties includes:
+    - Lead demand forecasting team.
     - Improved price prediction models to maximise revenue across FlixBus network.
     - Implemented demand forecasting using time-series based models. 
     - Collaborated with revenue management and pricing teams to refine pricing strategies.
