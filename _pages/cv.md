@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* 2024 - Present: Expert Machine Learning Engineer, MBition
+  - Developing strategies to accelerate LLM development
+  - Delivering AI solutions for diverse products and teams in the speech domain
+  - Led the development and release of three conversational AI products to end users
+    
 * 2019 - 2020: Data Scientist, FlixBus
   * Duties includes:
     - Lead demand forecasting team.
